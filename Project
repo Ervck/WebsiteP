@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>The Momo Page</title>
+</head>
+
+<body>
+<body style="background-color:#bbe1ee;">
+<h1>Momo the Cat</h1>
+
+<p>Momo was my first cat so I wanted to make a page dedicated to him because I figured it would be a fun project doing so. </p>
+
+<h2><strong>Momo</strong></h2>
+<img src=""/>
+<!-- I havent found a suitable picture yet, sorry. -->
+<p>He’s pretty cute right?</p>
+
+<p>Thats all you get to see though, no <a href="https://www.somesite.com">more</a>. Im serious no <a href="https://www.somesite.com">more</a>.</p>
+<!-- I plan on having it lead to more images of him because I figured it would be a more fun way to show more of him instead of a collage,I also havent decided on these either.-->
+</body>
+</html>
+
