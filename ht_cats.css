@@ -15,12 +15,6 @@ section {
   display: flex;
 }
 
-#catcenter {
- display: block;
-  margin-left: auto;
-  margin-right: auto;
-  filter: grayscale(100%)
-}
 
 #ulNav {
   list-style-type: none;
